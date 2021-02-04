@@ -1,0 +1,9 @@
+# This is a dummy python file, such as that may appear but isn't under repo control
+
+import os
+def a_function():
+    return "ran successfully"
+
+
+if __name__=="__main__":
+    print(a_function())
